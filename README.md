@@ -91,6 +91,13 @@ The analysis found an overall decline in happiness scores while individual contr
 
 This comparison demonstrated the importance of examining multiple contributing factors rather than interpreting happiness through a single measure.
 
+<h2>📄 Original Project Report</h2>
+
+The original capstone report documents the Google Sheets analysis, 
+visualizations, findings, and original Tableau work completed for this project.
+
+[View the Original Project Report](YOUR-PDF-LINK-HERE)
+
 <h2>📍 INTERACTIVE DASHBOARD: World Happiness Score 2015–2022</h2>
 
 <h3>Tableau Dashboard</h3>
