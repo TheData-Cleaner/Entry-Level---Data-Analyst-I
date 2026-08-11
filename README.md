@@ -96,7 +96,7 @@ This comparison demonstrated the importance of examining multiple contributing f
 The original capstone report documents the Google Sheets analysis, 
 visualizations, findings, and original Tableau work completed for this project.
 
-[View the Original Project Report](YOUR-PDF-LINK-HERE)
+[View the Original Project Report](https://github.com/TheData-Cleaner/Entry-Level---Data-Analyst-I/blob/main/World_Happiness_Analysis_Report.pdf)
 
 <h2>📍 INTERACTIVE DASHBOARD: World Happiness Score 2015–2022</h2>
 
