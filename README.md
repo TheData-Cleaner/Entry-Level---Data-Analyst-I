@@ -1,5 +1,7 @@
 <h1>🌍 World Happiness Analysis: 2015 vs. 2022</h1>
 
+<img width="293" height="278" alt="Image" src="https://github.com/user-attachments/assets/7a9ebce0-49ac-402d-a96f-6db307366a00" />
+
 <h2>Project Overview</h2>
 
 This project analyzes global happiness data from the 2015 and 2022 World Happiness Reports to examine changes in happiness across countries and regions.
