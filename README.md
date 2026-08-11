@@ -1,6 +1,6 @@
 <h1>🌍 World Happiness Analysis: 2015 vs. 2022</h1>
 
-<img width="293" height="278" alt="Image" src="https://github.com/user-attachments/assets/7a9ebce0-49ac-402d-a96f-6db307366a00" />
+<img width="1774" height="887" alt="Image" src="https://github.com/user-attachments/assets/7a9ebce0-49ac-402d-a96f-6db307366a00" />
 
 <h2>Project Overview</h2>
 
