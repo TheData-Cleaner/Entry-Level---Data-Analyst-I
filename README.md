@@ -100,7 +100,7 @@ visualizations, findings, and original Tableau work completed for this project.
 
 [View the Original Project Report](World_Happiness_Analysis_Report.pdf)
 
-<h2>📍 INTERACTIVE DASHBOARD: World Happiness Score 2015–2022</h2>
+<h2>🖥️ INTERACTIVE DASHBOARD: World Happiness Score 2015–2022</h2>
 
 <h3>Tableau Dashboard</h3>
 
