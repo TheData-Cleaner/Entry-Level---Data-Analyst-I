@@ -111,7 +111,7 @@ The Tableau dashboard provides a side-by-side comparison of:
 - Average Happiness Score by Region — 2015
 - Average Happiness Score by Region — 2022
 
-The dashboard was reconstructed from the original project data and documentation to preserve the analysis as an interactive portfolio artifact.
+The dashboard was reconstructed in 2026 using the original project data and documentation, preserving the original analytical approach while creating a current interactive portfolio artifact.
 
 <h2>🔎 Key Findings</h2>
 
